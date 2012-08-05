@@ -1,0 +1,74 @@
+/* 
+    Document   : style
+    Created on : 12 Jul, 2012, 5:20:26 AM
+    Author     : amit
+    Description: e0ff84
+        Purpose of the stylesheet follows.
+*/
+
+#searchbox{
+    background-color: #cbebed;
+    padding:15px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+	padding-left:100px;
+}
+#productbox{
+    background-color: #fff;
+    padding:15px;
+}
+#searchbox1{
+     display: inline-block;
+  width: 400px;
+  height: 60px;
+  padding: 10px;
+  margin-bottom: 9px;
+  font-size: 25px;
+  line-height: 18px;
+  color: #00ccff;
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+         margin-right: 30px;
+}
+#searchform{
+    margin-top:20px;
+}
+
+#details{
+    margin-top:50px;
+}
+#image{
+    height:380px;
+    width:850px;
+    #background-color: #446388;
+}
+#footer{
+    height:400px;
+    width:1360px;
+    margin-top: 20px;
+    background-color: #fff;
+    margin-left: 0px;
+ /* border-top: 5px white solid ;
+  box-shadow:1px 1px 6px #000; */
+}
+#footbar{
+   
+  
+}
+#footeritems{
+    height:300px;
+    width:235px;
+    margin:42px;
+    float:left;
+    position:relative;
+}
+#infooter{
+	padding:10px;
+
+}
+#productlist{
+	overflow:auto;
+	height:250px;}
