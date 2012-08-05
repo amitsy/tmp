@@ -30,13 +30,10 @@
 include('menu.php');
 ?>
 
-  <?php 
-include('dbconnect.php');
-?>
-            
+          
                 <div id="productbox" class="span11 offset4">
 				<?php
-				
+				include('dbconnect.php');
 				
 				
 			$sql="select * from products where brand='$brand'";

@@ -24,7 +24,7 @@ include('menu.php');
 
 <div id="content">
                 <div id="searchbox" class="span9 offset4">
-                    <h1>Sell your old Mobile phone in less than 30 seconds.</h1>
+                    <h1>Sell your old Mobile phone for cash in less than 30 seconds.</h1>
                     <form class="form-inline" id="searchform" action='phonelist.php' method='post'>
                         <select name='cat' id="searchbox1" >
         <option value='apple'>Apple</option>
