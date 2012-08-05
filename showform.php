@@ -78,16 +78,25 @@ include('menu.php');
                         <fieldset class="step">
                             <legend>Offer</legend>
                            
- 
+ <submit class="btn-info" id="next2button">
+    
+<a href='#' id='next1'>Next</a> </submit>
                         </fieldset>
 
 
 <fieldset class="step">
                             <legend>Upload photo&#42;</legend>
                            
-
- Photo: <input type="file" name="photo">
-
+                            <div id="uploadbutton" class="btn" style="width:300px; height: 40px;">
+ <input type="file" name="photo">
+                            </div>
+ 
+ <submit class="btn-info" id="prev2button">
+    
+<a href='#' id='next1'>Previous</a> </submit>
+<submit class="btn-info" id="next2button2">
+    
+<a href='#' id='next1'>Next</a> </submit>
                         </fieldset>
 
 
@@ -99,7 +108,7 @@ include('menu.php');
 
 <p>
                                 <label for="name">Name&#42;</label>
-                                <input id="name" name="name" type="text" AUTOCOMPLETE=OFF style="width:200px;"/>
+                                <input id="name" name="name" type="text" AUTOCOMPLETE=OFF style="width:200px; height: 40px;"/>
                             </p>
 
 <p>
@@ -109,16 +118,20 @@ include('menu.php');
 
 <p>
                                 <label for="email">Email&#42;</label>
-                                <input id="email" name="email" type="text" AUTOCOMPLETE=OFF  style="width:200px;"/>
+                                <input id="email" name="email" type="text" AUTOCOMPLETE=OFF  style="width:200px;height: 40px;"/>
                             </p>
 
 <p>
                                 <label for="phone">Phone No.&#42;</label>
-                                <input id="phone" name="phone" type="text" AUTOCOMPLETE=OFF style="width:200px;"/>
+                                <input id="phone" name="phone" type="text" AUTOCOMPLETE=OFF style="width:200px;height: 40px;"/>
                             </p>
-
-
-
+                            <br>
+<submit class="btn-info" id="prev2button3">
+    
+<a href='#' id='next1'>Previous</a> </submit>
+<submit class="btn-info" id="next2button3">
+    
+<a href='#' id='next1'>Next</a> </submit>
                                       
                         </fieldset>
                         
@@ -130,6 +143,10 @@ include('menu.php');
                             <p class="submit">
                                 <button id="registerButton" type="submit">Submit</button>
                             </p>
+                            <submit class="btn-info" id="prev2button4">
+    
+<a href='#' id='next1'>Previous</a> </submit>
+                           
                         </fieldset>
                     </form>
                 </div>

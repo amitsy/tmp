@@ -4,22 +4,23 @@
     -moz-box-shadow:0px 0px 3px #aaa;
     -webkit-box-shadow:0px 0px 3px #aaa;
     box-shadow:0px 0px 3px #aaa;
-    -moz-border-radius:10px;
-    -webkit-border-radius:10px;
-    border-radius:10px;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;
+    border-radius:20px;
     border:2px solid #fff;
     background-color:#cbebed;
-    width:900px;
+    width:935px;
     overflow:hidden;
+    margin-bottom: -10px;
 }
 #steps{
-    width:900px;
+    width:935px;
 	/*height:320px;*/
     overflow:hidden;
 }
 .step{
     float:left;
-    width:900px;
+    width:935px;
 	/*height:320px;*/
 }
 #navigation{
@@ -122,7 +123,7 @@ span.error{
     text-shadow:1px 1px 1px #fff;
     font-weight:bold;
     float:left;
-    width:890px;
+    width:930px;
     padding:5px 0px 5px 10px;
     margin:10px 0px;
     border-bottom:1px solid #fff;

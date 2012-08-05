@@ -68,7 +68,8 @@ echo $id;
                            
 
  </p><submit class="btn-info" id="nextbutton">
-<a href='#' id='next1'>Next</a></submit>
+    
+<a href='#' id='next1'>Next</a> </submit>
 <script>
 $(document).ready(function(){
 $('#next1').click(function(){ $('#acc').trigger('click');    });
@@ -109,7 +110,13 @@ $('#next1').click(function(){ $('#acc').trigger('click');    });
                                     <option>>2 Years</option>
                                 </select>
                             
-                     </div>       
+                     </div>   
+<submit class="btn-info" id="prevbutton2">
+    
+<a href='#' id='next1'>Previous</a> </submit>
+<submit class="btn-info" id="nextbutton2">
+    
+<a href='#' id='next1'>Next</a> </submit>
                         </fieldset>
                         			<fieldset class="step">
                             <legend>Confirm</legend>
