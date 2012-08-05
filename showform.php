@@ -141,7 +141,7 @@ include('menu.php');
 								By selling us your phone, you agree to our <a href="terms.php">Terms and Condition</a>. 
 							</p>
                             <p class="submit">
-                                <button id="registerButton" type="submit">Submit</button>
+                                <button id="registerButton" type="submit" class="btn-info">Submit</button>
                             </p>
                             <submit class="btn-info" id="prev2button4">
     
