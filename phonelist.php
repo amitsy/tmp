@@ -30,11 +30,9 @@
 include('menu.php');
 ?>
 
- <?php 
-mysql_connect('thegmatassassins.netfirmsmysql.com', 'takemyphone1', 'Takemyphone24*7'); 
-mysql_select_db(takemyphone); 
-
-?> 
+  <?php 
+include('dbconnect.php');
+?>
             
                 <div id="productbox" class="span11 offset4">
 				<?php

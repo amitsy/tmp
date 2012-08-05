@@ -38,8 +38,9 @@ $bran=$_GET['name'];
 
 $nm=$_GET['name'];
 
-mysql_connect('thegmatassassins.netfirmsmysql.com', 'takemyphone1', 'Takemyphone24*7'); 
-mysql_select_db(takemyphone); 
+ 
+include('dbconnect.php');
+
 
 $query="insert into info (`phone`) values ('$bran')";
 mysql_query($query);
