@@ -1,8 +1,8 @@
   <div class="span12" id="footer">
                 <div id="footeritems" class="alert alert-info">
                    <div id="infooter" > <h3>About Us</h3><hr>
-                   <font size="+">Takemyphone, is just a way of smarter consumption.<br>We buy your old smartphones and offer you the best price you can get anywhere in the market.
-                   <br>Now, no need to go through the hassles of selling your phone in the grey market.
+                   <font size="+">TakeMyPhone, is just a way of smarter consumption.<br>We buy your old smartphones and offer you the best price you can get anywhere in the market.
+                   <br>Now, no need to go through the hassles of selling your old phone in the grey market.
                     </font></div>
             </div>
                 <div  id="footeritems" class="alert alert-info">
