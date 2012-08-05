@@ -14,7 +14,7 @@
                     
                     </ul>
                 </div>
-                <div id="menu" class="span12">
+                <div id="menu2" class="span12">
                     
                     <div class="mcontainer">
             <ul id="menu">

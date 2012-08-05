@@ -59,6 +59,12 @@ If you need help accepting or declining a revised offer, feel free to reach us. 
                 
               
             </div>
+            <div class="span12 offset4" id="footbar3">
+               
+              
+                
+                
+            </div>
             <div class="span12 offset4" id="footbar">
                
                

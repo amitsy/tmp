@@ -67,8 +67,8 @@ echo $id;
 								<input type="radio" id="condition" name="condition" value=" I have a Dead Phone, Please Recycle it"/> I have a Dead Phone, Please Recycle it</label>
                            
 
- </p>
-<a href='#' id='next1'>Next</a>
+ </p><submit class="btn-info" id="nextbutton">
+<a href='#' id='next1'>Next</a></submit>
 <script>
 $(document).ready(function(){
 $('#next1').click(function(){ $('#acc').trigger('click');    });
@@ -139,6 +139,12 @@ $('#next1').click(function(){ $('#acc').trigger('click');    });
                 </div>
             </div>
                 </div>
+            </div>
+            <div class="span12 offset4" id="footbar3">
+               
+              
+                
+                
             </div>
             <div class="span12 offset4" id="footbar">
                

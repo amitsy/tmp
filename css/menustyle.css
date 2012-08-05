@@ -1,12 +1,18 @@
+#menu2{
+   
+    padding-left: 20px;
+}
 
 .mcontainer{
     width:100%;
-	float:right;
+	
     height:130px;
-    margin:0 auto;
+   
+    
     position:relative;
     overflow:hidden;
     border:3px solid #fff;
+  
     background-color:#fff;
    box-shadow:1px 1px 6px #000;
     -webkit-box-shadow:1px 1px 6px #000;
@@ -23,7 +29,7 @@ ul#menu{
     font-size:24px;
     font-family:Helvetica, PT Sans Narrow, Arial, sans-serif;
     font-weight: bold;
-    color:#999;
+    color:#666;
     letter-spacing:-2px;
 }
 ul#menu li{
@@ -65,18 +71,19 @@ ul#menu span.title{
     display:block;
     height:26px;
     text-shadow:1px 1px 1px #000;
-    color:#B7B7B6;
+    color:#666;
     text-indent:10px;
 }
 ul#menu span.description{
-    width:140px;
+    width:150px;
 	height:80px;
-    background-color:#B7B7B6;
+    background-color:#666;
     border:3px solid #fff;
     color:#fff;
     display:block;
     font-size:24px;
     padding:10px;
+    line-height: 24px;
     -moz-box-shadow:1px 1px 6px #000;   
     -webkit-box-shadow:1px 1px 6px #000;
     box-shadow:1px 1px 6px #000;
@@ -85,7 +92,7 @@ ul#menu span.description{
     border-radius:10px;
 }
 ul#menu a:hover span.description{
-    background-color:#54504F;
+    background-color:#111;
     color:#00ccff;
 }
 ul#menu a:hover span.title{

@@ -1,8 +1,8 @@
   <div class="span12" id="footer">
                 <div id="footeritems" class="alert alert-info">
                    <div id="infooter" > <h3>About Us</h3><hr>
-                   <font size="+">We aim at bringing a smarter consumption in the Indian market by introducing the novel concept of "Re-commerce" in India. <br>We buy your old Smart Phones and offer you the best price you can get anywhere in the market.
-                   Save yourself from the GREY second hand market and dont get cheated or in other words,"Sell your phones to us." (There's a reason the second hand market is called "Grey")
+                   <font size="+">Takemyphone, is just a way of smarter consumption.<br>We buy your old smartphones and offer you the best price you can get anywhere in the market.
+                   <br>Now, no need to go through the hassles of selling your phone in the grey market.
                     </font></div>
             </div>
                 <div  id="footeritems" class="alert alert-info">

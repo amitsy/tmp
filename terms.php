@@ -179,6 +179,12 @@ IN NO EVENT SHALL TAKE MY PHONE, ITS DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES,
                 
               
             </div>
+            <div class="span12 offset4" id="footbar3">
+               
+              
+                
+                
+            </div>
             <div class="span12 offset4" id="footbar">
                
                

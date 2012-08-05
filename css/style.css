@@ -5,19 +5,28 @@
     Description: e0ff84
         Purpose of the stylesheet follows.
 */
-
+body{
+    background-image:url("../src/back.jpg");
+}
+.container{
+    background-color: #fff;
+}
 #searchbox{
     background-color: #cbebed;
     padding:15px;
     -webkit-border-radius:5px;
     -moz-border-radius:5px;
 	padding-left:100px;
+        padding-right: 100px;
+        margin-top: -40px;
+        width:750px;
 }
 #textbox{
     background-color: #cbebed;
     padding:15px;
     -webkit-border-radius:5px;
     -moz-border-radius:5px;
+    width:910px;
 }
 #prezibox{
     background-color: #fff;
@@ -25,6 +34,7 @@
     -webkit-border-radius:5px;
     -moz-border-radius:5px;
 padding-left:45px;
+width:910px;
 }
 .prezi-player{
 padding:75px;
@@ -38,14 +48,17 @@ padding:75px;
 	font-size:16px;
 }
 #productbox{
-    background-color: #fff;
-    padding:15px;
+   
+  
+    width:950px;
+    
 }
 #searchbox1{
      display: inline-block;
-  width: 400px;
+  width: 500px;
   height: 60px;
   padding: 10px;
+  
   margin-bottom: 9px;
   font-size: 25px;
   line-height: 18px;
@@ -67,26 +80,47 @@ padding:75px;
 #image{
     height:380px;
     width:850px;
+    margin-top: -15px;
     #background-color: #446388;
 }
 #footer{
     height:400px;
-    width:1360px;
+    width:1300px;
     margin-top: 20px;
-    background-color: #fff;
-    margin-left: 0px;
+    
+    margin-left: 40px;
  /* border-top: 5px white solid ;
   box-shadow:1px 1px 6px #000; */
 }
+#footbar3{
+   margin-left:70px;
+
+   background-color: #fff;
+   width:1213px;
+   height: 50px;
+  margin-bottom: -20px;
+   -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+}
 #footbar{
-   
-  
+   margin-left:70px;
+   background-image:url("../src/back.jpg");
+   background-color: #222;
+   width:1213px;
+   height: 15px;
+  margin-bottom: -20px;
+   -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
 }
 #footeritems{
     height:300px;
     width:235px;
-    margin:42px;
+    margin:32px;
     float:left;
+    font-size: 16px;
+    text-align:centre;
     position:relative;
 }
 #infooter{
@@ -96,3 +130,7 @@ padding:75px;
 #productlist{
 	overflow:auto;
 	height:250px;}
+#nextbutton{
+    margin-top: 300px;
+    margit-left:30px;
+}

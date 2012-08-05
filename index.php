@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta  charset=UTF-8>
-        <title>Sell your used mobiles and second hand mobiles in India | TakeMyPhone</title>
+        <title>Sell your used mobiles and second hand mobiles for cash in India | TakeMyPhone</title>
         <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
         <link rel="stylesheet" type="text/css" href="css/logostyle.css" />
          <link rel="stylesheet" type="text/css" href="css/style.css" />
@@ -11,12 +11,12 @@
          <link rel="stylesheet" type="text/css" href="css/sliderstyle.css" />
         <link rel="stylesheet" href="css/menustyle.css" type="text/css" media="screen"/>
         <link rel="stylesheet" type="text/css" href="css/btnstyle.css" />
-        <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css' />
-       <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css' />
+       
         <link href="src/favicon.png" rel="shortcut icon" />
     </head>
     <body>
         <div class="container" >
+            
             <?php 
 include('menu.php');
 ?>
@@ -24,7 +24,7 @@ include('menu.php');
 
 <div id="content">
                 <div id="searchbox" class="span9 offset4">
-                    <h1>Sell your old Mobile phone for cash in less than 30 seconds.</h1>
+                    <h1>Sell your old Mobile phone for cash in less than 30 seconds</h1>
                     <form class="form-inline" id="searchform" action='phonelist.php' method='post'>
                         <select name='cat' id="searchbox1" >
         <option value='apple'>Apple</option>
@@ -45,6 +45,7 @@ include('menu.php');
                     <h2>How We Work?</h2>
                     <div id="image">
                          <ul class="bca-menu">
+                            
                     <li>
                         <a href="working.php">
                             <span class="bca-icon"><img src="src/mouse.png"></span>
@@ -53,16 +54,19 @@ include('menu.php');
                                 <h3 class="bca-sub">Select your phone model and answer few easy questions.</h3>
                             </div>
                         </a>
+                             
                     </li>
+                   
                     <li>
                         <a href="working.php">
                             <span class="bca-icon"><img src="src/box.png"></span>
                             <div class="bca-content">
                                 <h2 class="bca-main">Ship your phone to us</h2>
-                                <h3 class="bca-sub">Ship your phone to us via Fedex or DHL courier service.</h3>
+                                <h3 class="bca-sub">Ship your phone to us via BlueDart,Fedex or DHL courier service.</h3>
                             </div>
                         </a>
                     </li>
+                     
                     <li>
                         <a href="working.php">
                             <span class="bca-icon" id="heart"><img src="src/rupee.png"></span>
@@ -72,6 +76,7 @@ include('menu.php');
                             </div>
                         </a>
                     </li>
+                   
                     <li>
                         <a href="working.php">
                             <span class="bca-icon"><img src="src/recycle.png"></span>
@@ -86,9 +91,11 @@ include('menu.php');
                     </div>
                 </div>
             </div>
+      
+          
             <div class="span12 offset4" id="footbar">
                
-               
+              
                 
                 
             </div>

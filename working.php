@@ -39,7 +39,7 @@ include('menu.php');
                             <span class="bca-icon"><img src="src/box.png"></span>
                             <div class="bca-content">
                                 <h2 class="bca-main">Ship your phone to us</h2>
-                                <h3 class="bca-sub">Ship your phone to us via Fedex or DHL courier service.</h3>
+                                <h3 class="bca-sub">Ship your phone to us via Bluedart,Fedex or DHL courier service.</h3>
                             </div>
                         </a>
                     </li>
@@ -70,6 +70,12 @@ include('menu.php');
                 </div>
                 
               
+            </div>
+            <div class="span12 offset4" id="footbar3">
+               
+              
+                
+                
             </div>
             <div class="span12 offset4" id="footbar">
                
