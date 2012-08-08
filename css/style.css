@@ -17,9 +17,9 @@ body{
     -webkit-border-radius:5px;
     -moz-border-radius:5px;
 	padding-left:100px;
-        padding-right: 100px;
-        margin-top: -40px;
-        width:750px;
+        padding-right: 50px;
+        margin-top: -90px;
+        width:800px;
 }
 #textbox{
     background-color: #cbebed;
@@ -27,6 +27,7 @@ body{
     -webkit-border-radius:5px;
     -moz-border-radius:5px;
     width:910px;
+     margin-top: -50px;
 }
 #prezibox{
     background-color: #fff;
@@ -35,9 +36,11 @@ body{
     -moz-border-radius:5px;
 padding-left:45px;
 width:910px;
+margin-top: -50px;
 }
 .prezi-player{
 padding:75px;
+ 
 }
 #faqq{
 	font-size:20px;
@@ -49,7 +52,7 @@ padding:75px;
 }
 #productbox{
    
-  
+  margin-top: -50px;
     width:950px;
     
 }

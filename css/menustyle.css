@@ -6,7 +6,7 @@
 .mcontainer{
     width:100%;
 	
-    height:130px;
+    height:100px;
    
     
     position:relative;
@@ -40,7 +40,7 @@ ul#menu a{
     cursor:pointer;
     position:relative;
     float:left;
-    bottom:-105px;
+    bottom:-75px;
     line-height:20px;
     width:210px;
 }
@@ -56,10 +56,10 @@ ul#menu a{
     position:absolute;
 }
 .icon_about{
-    background:transparent url(src/howwework.png) no-repeat top left;
+    background:transparent url(../src/howweork.png) no-repeat top left;
 }
 .icon_work{
-    background:transparent url(../images/globe.png) no-repeat top left;
+    background:transparent url(../src/globe.png) no-repeat top left;
 }
 .icon_help{
     background:transparent url(../images/help.png) no-repeat top left;
@@ -76,14 +76,14 @@ ul#menu span.title{
 }
 ul#menu span.description{
     width:150px;
-	height:80px;
+	height:50px;
     background-color:#666;
     border:3px solid #fff;
     color:#fff;
     display:block;
-    font-size:24px;
+    font-size:22px;
     padding:10px;
-    line-height: 24px;
+    line-height: 22px;
     -moz-box-shadow:1px 1px 6px #000;   
     -webkit-box-shadow:1px 1px 6px #000;
     box-shadow:1px 1px 6px #000;
@@ -94,7 +94,9 @@ ul#menu span.description{
 ul#menu a:hover span.description{
     background-color:#111;
     color:#00ccff;
+    text-decoration:none;
 }
 ul#menu a:hover span.title{
     color:#54504F;
+    text-decoration:none;
 }

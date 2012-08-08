@@ -22,14 +22,14 @@
                     <a href="products.php">
                         <i class="icon_about"></i>
                         <span class="title">Products</span>
-                        <span class="description">See all the phones we take</span>
+                        <span class="description">See all the phones we buy</span>
                     </a>
                 </li>
                 <li>
                     <a href="working.php">
                         <i class="icon_work"></i>
                         <span class="title">How We Work</span>
-                        <span class="description">Its simple to sell to TakeMyPhone</span>
+                        <span class="description">Its simple to sell to us</span>
                     </a>
                 </li>
                 <li>

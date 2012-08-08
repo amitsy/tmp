@@ -96,7 +96,7 @@
                 function () {
                     var $this = $(this);
                     $('a',$this).stop(true,true).animate({
-                            'bottom':'-105px'
+                            'bottom':'-75px'
                         }, 300);
                     $('i',$this).stop(true,true).animate({
                             'top':'50px'
